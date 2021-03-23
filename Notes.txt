@@ -1,0 +1,2 @@
+1. <br> and <hr> are the tags which don't have the close tag like <h1>...</h1> they r self closing tags
+2.
